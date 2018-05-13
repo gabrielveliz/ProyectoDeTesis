@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title> ¿Cómo mejorar el buscador interno de nuestra tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/buscador-interno-tienda-online</link>
+    <description>Hay una funcionalidad muy importante dentro de las tiendas online, que muchas veces la pasamos por encima y no le damos la importancia que se merece: el buscador interno de tu eCommerce</description>
+     <pubDate>Thu, 07 Dec 2017 18:52:13 +0100</pubDate>
+ <dc:creator>Javier Gosende</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/buscador-interno-tienda-online</guid>
+  </item>
+  <item>
+    <title> ¿Cómo encontrar las mejores palabras clave para la web de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/palabras-clave</link>
+    <description>¿Aún no conoces la verdadera importancia de elegir unas buenas palabras clave para optimizar la web de tu tienda online?</description>
+     <pubDate>Thu, 30 Nov 2017 11:10:10 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/palabras-clave</guid>
+  </item>
+  <item>
+    <title>Claves de &amp;quot;Barqet&amp;quot; para el diseño web de un eCommerce de moda</title>
+    <link>https://www.prestashop.com/es/blog/barqet</link>
+    <description>A la hora de crear una tienda online, hay muchos aspectos a tener en cuenta. Y eso lo saben muy bien los integrantes de Barqet, la marca protagonista del artículo de hoy.</description>
+     <pubDate>Fri, 24 Nov 2017 16:02:31 +0100</pubDate>
+ <dc:creator>laia.ordonez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/barqet</guid>
+  </item>
+  <item>
+    <title>39 Estadísticas sobre eCommerce que debes conocer para la campaña navideña</title>
+    <link>https://www.prestashop.com/es/blog/estadisticas-ecommerce</link>
+    <description>Junto a la celebración de días especiales para el sector de las ventas online, como el “Black Friday”, “Small Business Saturday”, “Cyber Monday”, entre otros, se pueden sacar valiosas estad</description>
+     <pubDate>Thu, 23 Nov 2017 10:18:25 +0100</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/estadisticas-ecommerce</guid>
+  </item>
+  <item>
+    <title>¿Cómo crear una cuenta de Instagram para tu negocio online?</title>
+    <link>https://www.prestashop.com/es/blog/crear-cuenta-instagram</link>
+    <description>¿Eres dueño de un negocio online y aún no tienes una cuenta de Instagram para tu negocio? Pues simplemente, ¡ya estás tardando!</description>
+     <pubDate>Wed, 22 Nov 2017 13:30:19 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-cuenta-instagram</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Benchmarking y cómo puede ayudarte en tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/benchmarking</link>
+    <description>¿Has oído hablar del Benchmarking pero aún no tienes claro en qué te puede ayudar esta técnica a mejorar los resultados de tu negocio?</description>
+     <pubDate>Mon, 20 Nov 2017 13:04:41 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/benchmarking</guid>
+  </item>
+  <item>
+    <title>¿Cómo crear un Plan de Marketing Online de éxito para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/plan-marketing-online</link>
+    <description>¿Necesitas un Plan de Marketing Online estratégicamente diseñado?</description>
+     <pubDate>Tue, 14 Nov 2017 13:25:57 +0100</pubDate>
+ <dc:creator>Juan Gonzalez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plan-marketing-online</guid>
+  </item>
+  <item>
+    <title>15 Herramientas y aplicaciones para Instagram imprescindibles</title>
+    <link>https://www.prestashop.com/es/blog/aplicaciones-instagram</link>
+    <description>Existen herramientas y aplicaciones para Instagram que te ayudan a potenciar tu visibilidad y estrategia en la plataforma social de imágenes por excelencia.</description>
+     <pubDate>Fri, 10 Nov 2017 10:32:02 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/aplicaciones-instagram</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Linkbuilding y cómo crear una estrategia de enlaces para mi eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-linkbuilding</link>
+    <description>Sin lugar a dudas, el SEO es una de los factores esenciales dentro de la estrategia de marketing, tanto para los negocios físicos como para los negocios online.</description>
+     <pubDate>Fri, 03 Nov 2017 10:07:19 +0100</pubDate>
+ <dc:creator>David Ayala</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-linkbuilding</guid>
+  </item>
+  <item>
+    <title>Tendencias SEO para el 2018 ¡un año digital muy movidito!</title>
+    <link>https://www.prestashop.com/es/blog/tendencias-seo-2018</link>
+    <description>¿Qué tendencias SEO tendremos en 2018?
+Esta es una pregunta recurrente a la que, muchos profesionales de este sector, empezamos a buscar respuesta desde mucho antes de acabar 2017.</description>
+     <pubDate>Tue, 31 Oct 2017 13:28:37 +0100</pubDate>
+ <dc:creator>JordiOrdoñez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tendencias-seo-2018</guid>
+  </item>
+  </channel>
+</rss>

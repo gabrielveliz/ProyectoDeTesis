@@ -1,0 +1,14 @@
+[11-Dec-2015 20:25:19 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'sql111.mueblesveliz.cl' (2) in /home/mueblesv/public_html/control/conecta/conecta.php on line 7
+[11-Dec-2015 20:31:49 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'sql.mueblesveliz.cl' (2) in /home/mueblesv/public_html/control/conecta/conecta.php on line 7
+[29-Dec-2015 18:40:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mueblesv/public_html/control/conecta/valida.php on line 10
+[29-Dec-2015 18:41:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mueblesv/public_html/control/conecta/valida.php on line 10
+[25-Oct-2017 16:05:08 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50637 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[25-Oct-2017 16:05:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[25-Oct-2017 16:09:41 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50637 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[25-Oct-2017 18:05:27 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50637 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[25-Oct-2017 19:45:16 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50637 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[08-Nov-2017 20:30:12 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50638 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[08-Nov-2017 20:30:22 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50638 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[08-Nov-2017 20:30:31 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50638 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[08-Nov-2017 20:30:45 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50555 Library:50638 in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7
+[01-Dec-2017 16:04:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mueblesv/mvpanel.mueblesveliz.cl/conecta/conecta.php on line 7

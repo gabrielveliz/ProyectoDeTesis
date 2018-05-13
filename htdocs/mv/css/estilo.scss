@@ -1,0 +1,450 @@
+
+body
+{
+
+}
+.cuerpo
+{
+  width: 100%;
+  background-color: #EEEEEE;
+  margin: 0;
+  padding: 0;
+}
+* {
+  padding:0;
+  margin:0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  transition: all 0.4s;
+} 
+ 
+.menu_bar {
+  display:none;
+}
+header {
+  width: 100%;
+  background:#000000;
+ position: fixed;
+  box-shadow: 5px 5px 2px rgba(00,00,00,0.5);
+  z-index: 1000;
+
+}
+#vacio
+{
+  width: 100%;
+  height: 70px;
+}
+
+header nav {
+  background:#000000;
+  z-index:1000;
+
+#logo
+{
+  color: white;
+  font-family: serif,times;
+  font-size: 30px;
+ padding-right: 2px;
+ padding-left: 2px;
+
+}
+span
+{
+  color: white;
+  height: 100%;
+}
+
+}
+ 
+header nav ul {
+  list-style:none;
+}
+ 
+header nav ul li {
+  display:inline-block;
+  position: relative;
+}
+ 
+header nav ul li:hover {
+  background:#004D40;
+}
+ 
+header nav ul li a {
+  color:#fff;
+  display:block;
+  text-decoration:none;
+
+  padding: 20px;
+}
+ 
+header nav ul li a span {
+  margin-right:10px;
+}
+ 
+header nav ul li:hover .children {
+  display:block;
+}
+ 
+header nav ul li .children {
+  display: none;
+  background:#011826;
+  position: absolute;
+  width: 150%;
+  z-index:1000;
+}
+ 
+header nav ul li .children li {
+  display:block;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(255,255,255,.5);
+}
+ 
+header nav ul li .children li a {
+  display: block;
+}
+ 
+header nav ul li .children li a span {
+  float: right;
+  position: relative;
+  top:3px;
+  margin-right:0;
+  margin-left:10px;
+}
+ 
+header nav ul li .caret {
+  position: relative;
+  top:3px;
+  margin-left:10px;
+  margin-right:0px;
+}
+@keyframes slidy {
+0% { left: 0%; }
+11% { left: 0%; }
+22% { left: -100%; }
+33% { left: -100%; }
+44% { left: -200%; }
+55% { left: -200%; }
+66% { left: -300%; }
+77% { left: -300%; }
+88% { left: -400%; }
+100% { left: -400%; }
+}
+#contsli
+{ margin: auto;
+  width: 95%;
+  margin: auto;
+  background-color: #E0E0E0;
+}
+
+div#slider { overflow: hidden; width: 70%;margin:auto;border-radius: 5px; }
+div#slider figure img { width: 20%; float: left; }
+div#slider figure { 
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  text-align: left;
+  font-size: 0;
+  animation: 20s slidy infinite; 
+}
+
+
+
+.contenido
+{ padding: auto;
+  margin: auto;
+  width: 90%;
+  background-color: #FAFAFA;
+  text-align: center;
+  li
+  {
+    list-style: none;
+  }
+
+  p
+  {
+    font-size: 20px;
+    color: #424242;
+  }
+
+  #galeria
+  { float: left;
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 0 5% 0 5%;
+
+
+  #pro
+  { float: left;
+    width: 30%;
+    margin: 1%;
+    background-color: #E0E0E0;
+    box-shadow: 2px 2px 2px rgba(00,00,00,0.5);
+    a
+    {color: #424242;
+     text-decoration: none;}
+    img{width: 100%;}
+  }
+
+ }
+
+
+}
+.colchones
+{ text-align: center;
+  width: 100%;
+  margin: auto;
+  padding: auto;
+  background-color: transparent;
+  float: left;
+
+  #tipos
+  {
+    float: left;
+    width: 46%;
+    margin: 2%;
+
+    background-color: #E0E0E0;
+    box-shadow: 2px 2px 2px 2px rgba(00,00,00,0.5);
+    img
+    {
+      width: 40%;
+      margin: 2%;
+    }
+  }
+}
+.muebles
+{ padding: 5%;
+  #galeriamuebles
+  {
+    img
+    {
+      width: 46%;
+      float: left;
+      margin: 2%;
+    }
+  }
+}
+.mas
+{ width: 100%;
+  background-color: #FAFAFA;
+  margin: auto;
+  float: left;
+
+  #seccion
+  {
+    width: 46%;
+    margin: 2%;
+    float: left;
+    background-color: #E0E0E0;
+    box-shadow: 2px 2px 2px 2px rgba(00,00,00,0.5);
+  }
+  img
+  {
+    width: 60%;
+    margin-bottom: 5%;
+  }
+
+}
+.contacto
+{
+
+  a{text-decoration: none;color: #424242;}
+  img
+  {
+    width: 40%;
+    margin: 2%;
+  }
+}
+.ubicacion
+{
+  img
+  {
+    width: 60%;
+  }
+}
+
+.pie
+{
+  float: left;
+width: 100%;
+background-color: #212121;
+padding: 10px;
+margin: auto;
+
+ #columna1pie,#columna2pie
+ {
+  float: left;
+  width: 50%;
+  
+  p
+{
+  color: #F5F5F5;
+}
+ }
+
+}
+
+ 
+@media screen and (max-width: 1000px) {
+
+  .menu_bar {
+    display:block;
+    width:100%;
+    position: fixed;
+    top:0;
+    background:#000000;
+  }
+ 
+  .menu_bar .bt-menu {
+    display: block;
+    padding: 20px;
+    color: #fff;
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+ 
+  .menu_bar span {
+    float: right;
+    font-size: 40px;
+  }
+ 
+  header nav {
+    width: 80%;
+    height: calc(100% - 80px);
+    position: fixed;
+    right:100%;
+    margin: 0;
+    overflow: scroll;
+  }
+ 
+  header nav ul li {
+    display: block;
+    border-bottom:1px solid rgba(255,255,255,.5);
+  }
+ 
+  header nav ul li a {
+    display: block;
+  }
+ 
+  header nav ul li:hover .children {
+    display: none;
+  }
+ 
+  header nav ul li .children {
+    width: 100%;
+    position: relative;
+  }
+ 
+  header nav ul li .children li a {
+    margin-left:20px;
+  }
+ 
+  header nav ul li .caret {
+    float: right;
+  }
+  #of{
+    display: none;
+  }
+  #vacio
+  {
+    height: 85px;
+  }
+ div#slider { width: 90%;}
+
+.colchones
+{
+  width: 100%;
+  #tipos
+  {
+
+    width: 90%;
+    margin: 5%;
+
+  }
+}
+
+.contacto
+{
+  img
+  {
+    width: 70%;
+    margin: 15%;
+  }
+}
+
+
+
+}
+@media screen and (max-width: 600px) {
+div#slider { width: 100%;}
+#vacio
+{
+  width: 100%;
+  height: 90px;
+}
+.contenido
+{
+  width: 100%;
+}
+#galeria
+{
+  padding: 0 1% 0 1%;
+}
+
+.colchones
+{
+  width: 100%;
+  #tipos
+  {
+
+    width: 90%;
+    margin: 5%;
+
+  }
+}
+.muebles
+{ padding: 1%;
+  #galeriamuebles
+  {
+    img
+    {
+      width: 90%;
+      margin: 5%;
+    }
+  }
+}
+.mas
+{
+  #seccion
+  {
+    width: 96%;
+  }
+  img
+  {
+    width: 80%;
+    margin-bottom: 5%;
+  }
+
+}
+.contacto
+{
+  img
+  {
+    width: 90%;
+    margin: 5%;
+  }
+}
+.ubicacion
+{
+  img
+  {
+    width: 100%;
+  }
+}
+
+}
